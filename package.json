@@ -9,8 +9,8 @@
   "author": "remusang",
   "license": "MIT",
   "dependencies": {
-    "@mengkodingan/ckptw": "^4.4.4",
-    "@mengkodingan/consolefy": "^1.0.1",
+    "@mengkodingan/ckptw": "latest",
+    "@mengkodingan/consolefy": "latest",
     "axios": "^1.7.9"
   }
 }
