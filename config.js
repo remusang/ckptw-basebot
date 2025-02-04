@@ -1,7 +1,7 @@
-global.owner = "6285210477848"
+global.owner = "62xx"
 
 // common settings
 global.autoMention = true
 global.markOnlineOnConnect = true
-global.prefix = "#"
+global.prefix = ["#", ".", "/", ":"]
 global.autoRead = true
